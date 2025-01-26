@@ -1,0 +1,2 @@
+# SchoolApi
+netcore Api
